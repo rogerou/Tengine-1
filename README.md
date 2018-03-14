@@ -55,7 +55,7 @@ Tengine can be extended to support new serialization format, by building new ser
 
 ## Release History
 
-### version 0.3.0 - 2017/2/6
+### version 0.3.0 - 2018/2/6
 
 Introduce the driver/device model to support MT(Multi-Thread)
 
@@ -66,7 +66,7 @@ Caffe Wrapper examples: squeezenet/mobilenet/mtcnn
 MXNet model load examples: squeezenet/mobilenet
 
 
-### version 0.2.0 - 2017/1/24
+### version 0.2.0 - 2018/1/24
 
 Support new operator: Eltwise, PReLU, Slice
 
